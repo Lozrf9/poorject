@@ -6,7 +6,7 @@
 html body {
     margin: 0;
     background-image:
-    url(/docs/images/blackgrad_background.jpg);
+    url(docs/images/blackgrad_background.jpg);
     background-size: cover;
     width: 100vw;
     height: 100vh;
